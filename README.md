@@ -5,7 +5,7 @@ A Basic 2 Html pages **1.homepage.html** where you can click a link and go on to
 
 ## Screen short of page 1.homepage.html
 
-![Reference Image](1.PNG)
+![1](https://github.com/Faizan-Aziz/labactivity2/assets/165632955/d4e9da56-5232-4868-a079-4432d906208e)
 
 ## Screen short of page 2.registration.html
 
