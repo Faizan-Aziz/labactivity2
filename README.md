@@ -87,4 +87,4 @@ A Basic 2 Html pages **1.homepage.html** where you can click a link and go on to
  ![15](https://github.com/Faizan-Aziz/labactivity2/assets/165632955/4657445b-ce9e-47aa-b0ec-1a023e2234af)
 
  
-![Reference Image](15.PNG)
+
